@@ -1,6 +1,7 @@
 # An-Improved-MaskCycleGAN-VC-for-Non-Parallel-Voice-Conversion
 This project was done as a part of my masters curriculum. In this project we came up with an improved MaskCycleGAN-VC. The improvisation was done in both the generator and discriminator. In the generator we used an improved normalization technique called Region Normalization and in the discriminator we used a relativistic mechanism. Our improvements provides better results. Our results are uploaded in a github repo.
-##TechStack
+
+## TechStack
 PyTorch==1.1.2
 librosa==0.8.1
 
